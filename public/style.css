@@ -1,0 +1,13 @@
+*{
+  font-family: "Poppins", sans-serif;
+}
+.card{
+  cursor: pointer;
+}
+.card:hover {
+  background-color: #A1EEBD;
+  color: white;
+}
+.center{
+  text-align: center;
+}

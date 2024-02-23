@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Benjamin Smith",
+    "specialization": "Cardiology",
+    "image": "https://img.freepik.com/free-photo/business-man-mobile-phone_23-2148018677.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Emily Johnson",
+    "specialization": "Pediatrics",
+    "image": "https://img.freepik.com/free-photo/cheerful-businessman-with-waving-tie_23-2147932239.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Michael Williams",
+    "specialization": "Oncology",
+    "image": "https://img.freepik.com/free-photo/front-view-happy-lawyer-with-smartphone_23-2148230858.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Sophia Brown",
+    "specialization": "Dermatology",
+    "image": "https://img.freepik.com/free-photo/handsome-man-with-his-arms-crossed-white-background_1368-4287.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dr. David Wilson",
+    "specialization": "Orthopedics",
+    "image": "https://img.freepik.com/free-photo/man-wearing-waistcoat_1368-2886.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Olivia Martinez",
+    "specialization": "Neurology",
+    "image": "https://img.freepik.com/free-photo/businessman-with-crossed-arms_23-2147708516.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Ethan Taylor",
+    "specialization": "Psychiatry",
+    "image": "https://img.freepik.com/free-photo/business-men-carry-laptops-office-building_1359-1382.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Chloe Anderson",
+    "specialization": "Gynecology",
+    "image": "https://img.freepik.com/free-photo/smiling-businessman-with-arms-crossed_329181-678.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Jacob White",
+    "specialization": "Urology",
+    "image": "https://img.freepik.com/free-photo/close-up-young-businessman-holding-disposable-coffee-cup-hand-looking-camera_23-2148176166.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Mia Thompson",
+    "specialization": "Endocrinology",
+    "image": "https://img.freepik.com/free-photo/proud-young-executive-ready-start_1139-303.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Aiden Lewis",
+    "specialization": "Pulmonology",
+    "image": "https://img.freepik.com/free-photo/modern-man-bridge_23-2147961612.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Ava Harris",
+    "specialization": "Allergy & Immunology",
+    "image": "https://img.freepik.com/free-photo/portrait-young-businessman-sitting-wheelchair-holding-digital-tablet-hand-pointing-his-finger-upward_23-2148127393.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Liam Jackson",
+    "specialization": "Hematology",
+    "image": "https://img.freepik.com/free-photo/businessman_23-2147996569.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Mia Adams",
+    "specialization": "Rheumatology",
+    "image": "https://img.freepik.com/free-photo/portrait-young-businessman-gray-suit-with-crossed-arms-poses-wall-with-contrast-shadows_186202-8951.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Lucas Parker",
+    "specialization": "Emergency Medicine",
+    "image": "https://img.freepik.com/free-photo/smiley-bearded-man-black-shirt_23-2148500539.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Dr. Lily Evans",
+    "specialization": "Geriatrics",
+    "image": "https://img.freepik.com/free-photo/portrait-handsome-smiling-businessman_329181-728.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Dr. Noah Garcia",
+    "specialization": "Infectious Diseases",
+    "image": "https://img.freepik.com/free-photo/thoughtful-businessman-speaking-smartphone_23-2147932500.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Dr. Ava Rodriguez",
+    "specialization": "Nephrology",
+    "image": "https://images.pexels.com/photos/17050931/pexels-photo-17050931/free-photo-of-photo-of-a-pensive-young-man-in-a-suit-sitting-at-a-table-with-books.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "Dr. Leo Martinez",
+    "specialization": "Ophthalmology",
+    "image": "https://images.pexels.com/photos/7752846/pexels-photo-7752846.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Dr. Mia Cooper",
+    "specialization": "Gastroenterology",
+    "image": "https://images.pexels.com/photos/15019490/pexels-photo-15019490/free-photo-of-portrait-of-a-smiling-man.jpeg"
+  },
+  {
+    "id": 21,
+    "name": "Dr. Ethan Scott",
+    "specialization": "Dentistry",
+    "image": "https://images.pexels.com/photos/2905828/pexels-photo-2905828.jpeg"
+  },
+  {
+    "id": 22,
+    "name": "Dr. Isabella King",
+    "specialization": "Hepatology",
+    "image": "https://images.pexels.com/photos/7562139/pexels-photo-7562139.jpeg"
+  },
+  {
+    "id": 23,
+    "name": "Dr. Jacob Roberts",
+    "specialization": "Pain Medicine",
+    "image": "https://images.pexels.com/photos/3370021/pexels-photo-3370021.jpeg"
+  },
+  {
+    "id": 24,
+    "name": "Dr. Olivia Turner",
+    "specialization": "Psychology",
+    "image": "https://images.pexels.com/photos/2341350/pexels-photo-2341350.jpeg"
+  },
+  {
+    "id": 25,
+    "name": "Dr. Ethan Nelson",
+    "specialization": "Radiology",
+    "image": "https://images.pexels.com/photos/9607206/pexels-photo-9607206.jpeg"
+  }
+]
